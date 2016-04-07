@@ -1,0 +1,9 @@
+[Adblock Plus 2.1]
+! Title: MoKee Regional Anti Adblock Filter
+! Author: The MoKee Open Source Project | http://www.mokeedev.com
+! Expires: 5 days
+! Homepage: https://github.com/MoKee/Regional-Anti-Adblock-Filter
+!
+!---------------------------------URL Whitelist-------------------------------!
+@@||mokeedev.com^
+@@||mfunz.com^
