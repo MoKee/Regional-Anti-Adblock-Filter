@@ -8,6 +8,6 @@
 ||tz.lhzly.com/AdSource^
 ||njs.myyage.com^
 !---------------------------------URL Whitelist-------------------------------!
-@@||.mokeedev.com/^
-@@||.mfunz.com/^
+@@||.mokeedev.com^
+@@||.mfunz.com^
 @@||.hiphotos.baidu.com/baike/pic^
