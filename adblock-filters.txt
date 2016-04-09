@@ -7,6 +7,7 @@
 !---------------------------------URL Blacklist-------------------------------!
 ||tz.lhzly.com/AdSource^
 ||njs.myyage.com^
+||tieba.baidu.com##.forum_recommend_c
 !---------------------------------URL Whitelist-------------------------------!
 @@||.mokeedev.com^
 @@||.mfunz.com^
