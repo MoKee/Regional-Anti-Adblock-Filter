@@ -9,6 +9,6 @@
 ||njs.myyage.com^
 ||tieba.baidu.com##.forum_recommend_c
 !---------------------------------URL Whitelist-------------------------------!
-@@||.mokeedev.com^
-@@||.mfunz.com^
+@@||mokeedev.com^$document
+@@||mfunz.com^$document
 @@||.hiphotos.baidu.com/baike/pic^
